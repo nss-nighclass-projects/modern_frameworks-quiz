@@ -1,4 +1,4 @@
-#### Modern Frameworks Mini Quiz - Florist Product List
+# Modern Frameworks Mini Quiz - Florist Product List
 
 ### Requirements
 For this project you need to use Angular to list types of flower arrangements offered by a florist.
